@@ -1,0 +1,18 @@
+{
+    "name": "streampeek",
+    "description": "Allow a stream to be intercepted and looked at while allowing the original stream to operate",
+    "author": "Nathan Oehlman <nathan.oehlman@sidelab.com>",
+    "tags": [],
+    "version": "0.1.0",
+    
+    "engines": { "node": ">= 0.6.x" },
+
+    "dependencies": {
+    },
+    
+    "devDependencies": {
+    }
+        
+    "contributors": [
+    ]
+}
